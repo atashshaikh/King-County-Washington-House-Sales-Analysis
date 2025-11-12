@@ -9,7 +9,7 @@ It uncovers patterns in property prices, location, and features — helping user
 
 To explore how location, property condition, and features (like bedrooms, bathrooms, and sqft) influence house prices over time — enabling data-driven real estate insights.
 
-### 3.	Tech Stack
+### Tech Stack
 
 • Tableau Desktop – Main visualization and analytics platform<br>
 • Data Blending & Filtering – Integrated multiple property and sales attributes<br>
@@ -18,7 +18,7 @@ To explore how location, property condition, and features (like bedrooms, bathro
 • File Format – .twbx (Tableau Packaged Workbook), .png preview
 
 
-### 5.	Features / Highlights
+### Features / Highlights
 
 ##### 💼 Business Problem
 
@@ -48,6 +48,6 @@ To create an interactive Tableau dashboard that:
 • 🛠️ Property Valuation: Understand how size, view, and condition influence sale price<br>
 • 📍 Buyer & Seller Guidance: Support informed real estate investment and pricing decisions
 
-### 6.	Screenshots / Demos
+### Screenshot
 
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/atashshaikh/King-County-Washington-House-Sales-Analysis/blob/main/King%20County%20HouseSales.png)
